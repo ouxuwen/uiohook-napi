@@ -1,4 +1,5 @@
 [submodule "libuiohook"]
 	path = libuiohook
-	url = https://github.com/kwhat/libuiohook
+	url = https://github.com/ouxuwen/libuiohook
 	ignore = dirty
+	branch = 1.2
