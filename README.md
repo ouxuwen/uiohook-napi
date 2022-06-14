@@ -8,7 +8,7 @@ N-API C-bindings for [libuiohook](https://github.com/kwhat/libuiohook).
 ### Usage example
 
 ```typescript
-import { uIOhook, UiohookKey } from 'uiohook-napi'
+import { uIOhook, UiohookKey } from '@lastos/uiohook-napi'
 
 uIOhook.on('keydown', (e) => {
   if (e.keycode === UiohookKey.Q) {
